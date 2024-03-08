@@ -1,0 +1,242 @@
+[
+  {
+    "answerKey": 4,
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "Decision table testing",
+    "option 4": "Adhoc Testing",
+    "question": "Which is whitebox testing technique?",
+    "option 1": "Equivalent Partitioning",
+    "option 2": "Boundary value testing"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "To catch defects introduced during changes",
+    "option 4": "To validate user requirements",
+    "question": "What is the purpose of regression testing?",
+    "option 1": "To ensure the software is working as intended",
+    "option 2": "To verify new features"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "Security testing",
+    "option 4": "Usability testing",
+    "question": "Which testing type is focused on finding defects related to security vulnerabilities?",
+    "option 1": "Functional testing",
+    "option 2": "Performance testing"
+  },
+  {
+    "answerKey": 1,
+    "option 3": "Testing boundary values only",
+    "option 4": "Ignoring testing completely",
+    "question": "What is equivalence partitioning in testing?",
+    "option 1": "Dividing the input domain into classes of equivalent data",
+    "option 2": "Testing each combination of input values"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "To outline the testing approach and activities",
+    "option 4": "To document code implementation details",
+    "question": "What is the primary purpose of a test plan?",
+    "option 1": "To guide the development process",
+    "option 2": "To specify the resources needed for testing"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "To assess the system's behavior under specific conditions",
+    "option 4": "To test the performance of individual functions",
+    "question": "What is the goal of load testing?",
+    "option 1": "To find defects in the software",
+    "option 2": "To verify the correctness of the software"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "To specify the inputs and expected results of a test",
+    "option 4": "To manage project risks",
+    "question": "What is the purpose of a test case?",
+    "option 1": "To document software requirements",
+    "option 2": "To track project progress"
+  },
+  {
+    "answerKey": 1,
+    "option 3": "Verification and validation are the same concepts",
+    "option 4": "Verification focuses on defects, while validation focuses on functionality",
+    "question": "What is the difference between verification and validation in software testing?",
+    "option 1": "Verification ensures that the product is built correctly, while validation ensures the product meets user needs",
+    "option 2": "Verification ensures the product meets user needs, while validation ensures the product is built correctly"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "Unit testing",
+    "option 4": "Acceptance testing",
+    "question": "Which testing level is focused on testing individual functions or modules?",
+    "option 1": "System testing",
+    "option 2": "Integration testing"
+  },
+  {
+    "answerKey": 4,
+    "option 3": "An error in the software design",
+    "option 4": "A flaw that might prevent the software from functioning as intended",
+    "question": "What is a defect in software testing?",
+    "option 1": "A mistake in the requirements specification",
+    "option 2": "A deviation from the expected result"
+  },
+  {
+    "answerKey": 2,
+    "option 3": "To assess the system's performance under stress",
+    "option 4": "To test individual functions",
+    "question": "What is the primary goal of usability testing?",
+    "option 1": "To find security vulnerabilities",
+    "option 2": "To evaluate the user interface and overall user experience"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "To track the relationship between requirements and test cases",
+    "option 4": "To validate user requirements",
+    "question": "What is the purpose of a traceability matrix in testing?",
+    "option 1": "To document the test plan",
+    "option 2": "To manage project risks"
+  },
+  {
+    "answerKey": 1,
+    "option 3": "To test the average values",
+    "option 4": "To skip testing boundary values",
+    "question": "What is the significance of boundary value analysis in testing?",
+    "option 1": "To test the extremes of valid input values",
+    "option 2": "To test only invalid input values"
+  },
+  {
+    "answerKey": 1,
+    "option 3": "Testing after a defect is fixed",
+    "option 4": "Testing the entire system for major functionality",
+    "question": "What is smoke testing?",
+    "option 1": "Testing a specific subset of functionality",
+    "option 2": "Testing all features of the software"
+  },
+  {
+    "answerKey": 1,
+    "option 3": "Security testing",
+    "option 4": "Functional testing",
+    "question": "Which testing type focuses on assessing the system's ability to recover from failures?",
+    "option 1": "Recovery testing",
+    "option 2": "Performance testing"
+  },
+  {
+    "answerKey": 2,
+    "option 3": "To execute a set of predetermined test cases",
+    "option 4": "To automate the testing process",
+    "question": "What is the purpose of exploratory testing?",
+    "option 1": "To follow a predefined test plan",
+    "option 2": "To identify defects through simultaneous learning, test design, and test execution"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "To validate the software against user requirements",
+    "option 4": "To find security vulnerabilities",
+    "question": "What is the primary focus of acceptance testing?",
+    "option 1": "To assess system performance",
+    "option 2": "To evaluate user satisfaction"
+  },
+  {
+    "answerKey": 2,
+    "option 3": "Acceptance testing",
+    "option 4": "Regression testing",
+    "question": "Which testing phase comes after integration testing?",
+    "option 1": "Unit testing",
+    "option 2": "System testing"
+  },
+  {
+    "answerKey": 1,
+    "option 3": "To evaluate the user interface",
+    "option 4": "To test individual functions",
+    "question": "What is the primary goal of stress testing?",
+    "option 1": "To assess the system's ability to handle increasing load",
+    "option 2": "To find security vulnerabilities"
+  },
+  {
+    "answerKey": 1,
+    "option 3": "Static testing and dynamic testing are the same concepts",
+    "option 4": "Static testing focuses on defects, while dynamic testing focuses on functionality",
+    "question": "What is the difference between static testing and dynamic testing?",
+    "option 1": "Static testing involves reviewing and analyzing the code without executing it, while dynamic testing involves executing the code to find defects",
+    "option 2": "Static testing involves executing the code to find defects, while dynamic testing involves reviewing and analyzing the code without executing it"
+  },
+  {
+    "answerKey": 1,
+    "option 3": "Functional testing",
+    "option 4": "Performance testing",
+    "question": "Which testing type assesses the software's ability to operate in a specific environment?",
+    "option 1": "Compatibility testing",
+    "option 2": "Usability testing"
+  },
+  {
+    "answerKey": 1,
+    "option 3": "To ignore testing risks",
+    "option 4": "To test randomly without considering risks",
+    "question": "What is the purpose of risk-based testing?",
+    "option 1": "To test high-risk areas of the software first",
+    "option 2": "To test low-risk areas of the software first"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "To test the software's compatibility with different environments",
+    "option 4": "To find security vulnerabilities",
+    "question": "What is the goal of compatibility testing?",
+    "option 1": "To evaluate the user interface",
+    "option 2": "To assess the system's ability to handle increasing load"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "To measure the extent to which the code is tested by test cases",
+    "option 4": "To test individual functions",
+    "question": "What is the significance of code coverage analysis in testing?",
+    "option 1": "To analyze the code for security vulnerabilities",
+    "option 2": "To assess the system's performance"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "To evaluate the software against user requirements without knowing the internal code",
+    "option 4": "To find security vulnerabilities",
+    "question": "What is the primary focus of black-box testing?",
+    "option 1": "To test individual functions",
+    "option 2": "To assess system performance"
+  },
+  {
+    "answerKey": 2,
+    "option 3": "System testing",
+    "option 4": "Acceptance testing",
+    "question": "Which testing level ensures that different components or systems work together?",
+    "option 1": "Unit testing",
+    "option 2": "Integration testing"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "To assess the user interface and overall user experience",
+    "option 4": "To test individual functions",
+    "question": "What is the purpose of usability testing?",
+    "option 1": "To evaluate the system's ability to recover from failures",
+    "option 2": "To assess the system's performance under stress"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "To ensure that new code changes do not negatively impact existing functionality",
+    "option 4": "To find security vulnerabilities",
+    "question": "What is the purpose of regression testing?",
+    "option 1": "To test individual functions",
+    "option 2": "To assess the system's performance under stress"
+  },
+  {
+    "answerKey": 2,
+    "option 3": "To find security vulnerabilities",
+    "option 4": "To test individual functions",
+    "question": "What is the primary goal of load testing?",
+    "option 1": "To evaluate the user interface",
+    "option 2": "To assess the system's ability to handle increasing load"
+  }
+]
