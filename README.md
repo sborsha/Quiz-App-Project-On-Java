@@ -3,10 +3,16 @@ This is simple project of java based, when have 2 users, one admin who could add
 
 ## Project Summary
 * For Admin
-  _Log in as an admin to add new SQA-related questions to the quiz bank.
+  + Log in as an admin to add new SQA-related questions to the quiz bank.
 * For Student user
-  _Log in as a student to take a 10-question quiz from the quiz bank.
-  _Questions are randomly selected for each quiz session.
-  _Receive a score and feedback based on your performance.
+  - Log in as a student to take a 10-question quiz from the quiz bank.
+  - Questions are randomly selected for each quiz session.
+  - Receive a score and feedback based on your performance.
 
+## Prerequisites
+* Installed Java Development Kit (JDK)
+* IntelliJ Idea or any community (JAVA IDE)
 
+## Clone this repository 
+      https://github.com/sborsha/Quiz-App-Project-On-Java.git 
+      
